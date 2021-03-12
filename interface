@@ -1,0 +1,6 @@
+class Intraface {
+    public static void main(String[] args) {
+        //Hibernate
+
+    }
+}
